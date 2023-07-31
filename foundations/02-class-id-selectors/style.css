@@ -1,0 +1,19 @@
+.same {
+    background-color:rgb(150, 104, 144);
+    font-family: verdana, sans-serif, Times New Roman;
+}
+
+#unique1{
+    color: #2757a0;
+    font-size: 36px;
+}
+
+.multiple{
+    font-size: 24px;
+}
+
+#unique2{
+    background: color #5c845f;
+    font-weight: bold;
+    font-size: 24px;
+}
